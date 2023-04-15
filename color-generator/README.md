@@ -1,4 +1,5 @@
 ## Here we will be using color picker, toast library, values.js library for generating diffent colors and copy to clipboard.
+(https://generatefavcolor.netlify.app/)
 
 
 ## Steps
